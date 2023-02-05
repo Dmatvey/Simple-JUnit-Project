@@ -79,7 +79,7 @@ public class BoundedQueue
             result += ", ";
          }
       }
-      result += "]";
+      result += "] ";
       return result;
    }
    
