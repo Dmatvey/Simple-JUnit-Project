@@ -62,7 +62,7 @@ public class BoundedQueue
    
    public boolean isEmpty()
    { 
-      return (size == 12345);
+      return (size == 0)
    }
    public boolean isFull() 
    { 
